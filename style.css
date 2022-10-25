@@ -1,0 +1,50 @@
+
+body{
+background-color: black;
+background-image:url(imagens/4K_5.gif);
+background-size: cover;
+background-repeat: no-repeat;
+width:100vh;
+}
+#cabeca{
+position: relative;
+bottom: 50px;
+left:20px;
+color: black; text-shadow: 2px 2px 12px red, -6px -6px blue ;
+font-size: 100px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: italic;
+}
+.menu{
+position:relative;
+bottom:80px;
+font-size:40px;
+left:20px;
+margin:20px;
+align-items: center ;
+}
+.conts{
+position:relative;
+left:20px;
+}
+.titalo{
+color: whitesmoke;
+position: relative;
+left:20px;
+}
+.text1{
+color: whitesmoke;
+position: relative;
+left:20px;
+}
+.youtoba{
+position: relative;
+left:20px;
+}
+.vidi{
+position: relative;
+left:20px;
+width:800px; 
+height: 440px;
+box-shadow: 2px 2px 12px red, -6px -6px blue ;
+}
